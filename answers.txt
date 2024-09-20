@@ -7,6 +7,10 @@ Q1: Why might be consider using git?
 
 Answer: Git tracks the changes you make to files, so you have a record of what has been done, and you can revert to specific versions should you ever need to
 >>>>>>> q1
+Q3: What is the difference between merging and rebasing?
+
+Answer: rebase offers a cleaner project history by avoiding unnecessary merge commits, merge preserves the context of your branch's evolution.
+======
 Q4: What skills do you hope to improve during this course?
 
 Answer: I hope to improve my data analysis skills and learn how I can apply these skills in real world scenarios.
