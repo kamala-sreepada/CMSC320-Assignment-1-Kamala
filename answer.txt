@@ -1,0 +1,4 @@
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: rebase offers a cleaner project history by avoiding unnecessary merge commits, merge preserves the context of your branch's evolution.
