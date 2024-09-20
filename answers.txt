@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: Data science is used for a wide range of applications, including predictive analytics, machine learning, data visualization, recommendation systems, fraud detection, and sentiment analysis.
+=======
+Q1: Why might be consider using git?
+
+Answer: Git tracks the changes you make to files, so you have a record of what has been done, and you can revert to specific versions should you ever need to
+>>>>>>> q1
